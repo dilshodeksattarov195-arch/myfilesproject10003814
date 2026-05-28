@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcync",
+        "uuid": 7620372,
+        "checksum": "cr5m9k"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
